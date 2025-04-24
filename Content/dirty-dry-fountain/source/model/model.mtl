@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #
 # Wavefront material file
 # Created in RealityCapture
@@ -21,6 +22,29 @@ d 1
 Ns 0
 illum 1
 map_Kd tex_u2_v1_diffuse.jpg
+=======
+#
+# Wavefront material file
+# Created in RealityCapture
+# Engine version v1.2.1.116300
+#
+
+newmtl tex_u1_v1
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u1_v1_diffuse.jpg
+
+newmtl tex_u2_v1
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u2_v1_diffuse.jpg
+>>>>>>> 4358d9f1293ce9bfdec939e8ef8386c4b8a724bd
 =======
 #
 # Wavefront material file
