@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "250900541910",
+    "firebase_url": "https://ueloginsystem-3f0e9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ueloginsystem-3f0e9",
+    "storage_bucket": "ueloginsystem-3f0e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250900541910:android:7da3e3587e57fa07ebf477",
+        "android_client_info": {
+          "package_name": "com.mobilecomputing.pigsrevenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLc15F-Dvzz2tLP0teG3h7GLPgToWME4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
